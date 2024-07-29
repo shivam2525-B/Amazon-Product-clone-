@@ -1,0 +1,153 @@
+*{
+    text-decoration: none;
+    margin: 0%;
+}
+
+
+body{
+    margin: 1%;
+    margin-left: 30%;
+    padding: 0%;
+    font-family:'Franklin Gothic Medium';
+    
+}
+
+#mainContent{
+    box-shadow: 0px 0px 0px 1px black;
+    width: 200px;
+    height: 500px;
+}
+
+#photo{
+    width: 100%;
+}
+
+#categories{
+    color: rgb(60, 149, 163);
+    text-decoration: underline;
+    font-size: x-small;
+    text-align: center;
+    margin-left: 27%;
+    
+}
+
+#info{
+    color: grey;
+    margin-top: 12px;
+    display: flex;
+    height: fit-content;
+    margin-left: 34%;
+    font-size: xx-small;
+    margin-bottom: 2%;
+}
+
+#infoEmoji{
+    margin: 0%;
+    margin-left: 4px;
+    padding: 0%;
+    background-color: grey;
+    color: white;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+#companyName{
+    margin-top: 10px;
+    color: black;
+    margin-left: 37%;
+    font-size: 14;
+}
+
+#titleDiv{
+    margin-top: 3px;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+#titleTag{
+    color: rgb(80, 80, 80);
+}
+
+#ratingDiv{
+    margin-left: 23%;
+    display: flex;
+}
+
+#starImage{
+    height: 15px;
+}
+
+#arrow{
+    margin: 1%;
+    padding: 0%;
+    rotate: 90deg;
+}
+
+#one{
+    margin: 0%;
+    margin-left: 1.5%;
+    font-size: smaller;
+    font-family:sans-serif;
+    color: rgb(60, 149, 163);
+}
+
+#priceDiv{
+    font-size: small;
+    display: flex;
+    text-align: center;
+    margin-top: 4%;
+    margin-left: 5%;
+    
+}
+
+#rupeeSymbol{
+    width: fit-content;
+}
+
+#price{
+    margin-left: 0%;
+    margin-right: 2%;
+    font-family:Verdana ;
+}
+
+#mrp{
+    margin-top: 3%;
+    color: grey;
+    margin-right: 2%;
+    
+}
+
+.cut{
+    text-decoration: line-through rgb(71, 71, 71) ;
+}
+
+#off{
+    margin-left: 44%;
+    color: rgb(71, 71, 71);
+    font-size: small;
+}
+
+#extraDiscount{
+    margin-top: 1%;
+    color: grey;
+    font-size: x-small;
+    font-family:Verdana ;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+#atc{
+    width: fit-content;
+    font-family:Verdana ;
+    font-size: small;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 25%;
+    background-color: rgb(255, 215, 18);
+    padding: 4%;
+    padding-left: 6%;
+    padding-right: 6%;
+    border-radius: 25px;
+}
